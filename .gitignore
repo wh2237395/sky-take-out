@@ -5,3 +5,4 @@
 *Test.java
 **/test/
 **/src/upload
+**/src/main/resources/application-dev.yml
